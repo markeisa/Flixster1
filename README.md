@@ -30,7 +30,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ### Notes
-My challenge with building the Flixster app was that my application continued to forceclose everytime I would run it. I resolved this issue by changed my CompleSDKVersion in the build.gradle file.
+My challenge with building the Flixster app was that my application continued to forceclose everytime I would run it. I resolved this issue by changing my CompleSDKVersion in the build.gradle file.
 
 ### Open-source libraries used
 
